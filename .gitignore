@@ -1,0 +1,5 @@
+.vscode
+Thumbs.db
+/vendor
+*.code-workspace
+web/assets

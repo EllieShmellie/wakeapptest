@@ -1,0 +1,17 @@
+{
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "ocramius/proxy-manager": "^2.11",
+        "elisdn/php-hydrator": "^1.0",
+        "ramsey/uuid": "^4.1",
+        "webmozart/assert": "^1.10",
+        "beberlei/assert": "^3.3",
+        "dekor/php-array-table": "^1.0"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
